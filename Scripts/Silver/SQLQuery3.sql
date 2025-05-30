@@ -1,3 +1,5 @@
+# silver1 and SQL query3 files are testing files (jus for my rought work files).. the main files are ddl_silver and proc load silver
+
 USE DataWarehouse;
 SELECT *
 FROM(
