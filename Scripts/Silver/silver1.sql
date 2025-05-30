@@ -1,4 +1,6 @@
-USE DataWarehouse;
+# silver1 and SQL query3 files are testing files (jus for my rought work files).. the main files are ddl_silver and proc load silver
+
+	USE DataWarehouse;
 SELECT
 cst_id, count(*) from bronze.crm_cust_info group by cst_id HAVING count(*)<1 or cst_id IS NULL;
 
