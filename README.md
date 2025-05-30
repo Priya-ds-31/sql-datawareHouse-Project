@@ -56,3 +56,8 @@ Design and implement a modern data warehouse using SQL Server to unify sales dat
 **Documentation**: Deliver well-structured data model documentation to assist business users and analytics teams in understanding and utilizing the system effectively.
 
 
+# License
+
+This project is licensed under the [MIT License](LICENSE). You are free to use, modify, and share this project with proper attribution.
+
+
